@@ -4,12 +4,12 @@ a Simple tool and not very special  but this tool fast and easy create backdoor 
 
 
 # Screenshot
-<img src="https://cloud.githubusercontent.com/assets/17976841/23983203/525133f0-0a45-11e7-93f7-37f8e489e31b.png" width="55%"></img>
+<img src="https://clo
 
 
 
 ## Getting Started
-1. ```git clone https://github.com/Screetsec/microsploit.git```
+1. ```git clone https://github.com/pashayogi/Microsploit```
 2. ```chmod +x Microsploit && ./Microsploit```
 
 ## :book: How it works
